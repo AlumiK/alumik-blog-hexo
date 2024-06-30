@@ -4,6 +4,7 @@ date: 2024-03-22 14:16:22
 categories: Linux 系统和软件
 tags:
 abbrlink: 132
+standard: 1
 references:
   - https://unix.stackexchange.com/questions/181067/how-to-read-dmesg-from-previous-session-dmesg-0
 ---

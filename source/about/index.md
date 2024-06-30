@@ -1,6 +1,6 @@
 ---
 title: 关于
-description: About Me
+description: About
 date: 2021-08-29 15:49:34
 comments: false
 toc:
@@ -20,15 +20,17 @@ toc:
   }
 </style>
 
-## 你好, 我是钟震宇
+# 你好, 我是钟震宇
 
 我是钟震宇 (GitHub 用户名：alumik)，一个来自中国四川的程序员，目前生活在天津。我主攻深度学习、智能运维、高性能计算以及自然语言处理等研究领域。
 
 在这个网站里，我记录了一些在我的科研工作中遇到的问题以及一些解决方案，希望能帮助到你们。
 
-My name is Zhong Zhenyu (GitHub username: alumik), and I am a programmer from Sichuan, China. Currently, I am residing in Tianjin and focusing primarily on deep learning, AIOps, high-performance computing, natural language processing, and other related research fields.
+My name is Zhong Zhenyu (GitHub username: alumik), and I am a programmer from Sichuan, China.
+Currently, I am residing in Tianjin and focusing primarily on deep learning, AIOps, high-performance computing, natural language processing, and other related research fields.
 
-Through this website, I have documented some of the challenges that I have faced during my scientific research work, along with their corresponding solutions. My goal is to offer assistance to others who may be encountering similar issues.
+Through this website, I have documented some of the challenges that I have faced during my scientific research work, along with their corresponding solutions.
+My goal is to offer assistance to others who may be encountering similar issues.
 
 ## 我使用哪些编程语言？
 
@@ -82,3 +84,13 @@ Through this website, I have documented some of the challenges that I have faced
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white" />
+
+# 文章标准
+
+## 1
+
+更新日期：2024/07/01
+
+1. 使用 `<kbd>` 表示键盘按键。例如，<kbd>Ctrl</kbd>+<kbd>C</kbd>。
+2. 中文句子不换行，英文句子换行。
+3. 使用内联代码表示文件路径。例如，`/etc/hosts`。
