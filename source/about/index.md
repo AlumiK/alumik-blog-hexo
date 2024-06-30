@@ -94,3 +94,4 @@ My goal is to offer assistance to others who may be encountering similar issues.
 1. 使用 `<kbd>` 表示键盘按键。例如，<kbd>Ctrl</kbd>+<kbd>C</kbd>。
 2. 中文句子不换行，英文句子换行。
 3. 使用内联代码表示文件路径。例如，`/etc/hosts`。
+4. 命令行使用 `bash` 作为语言标记。
